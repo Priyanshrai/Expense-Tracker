@@ -1,0 +1,8 @@
+h1 {text-align: center;}
+form {text-align: center;}
+.error {
+    background-color: orangered;
+    color:#fff;
+    padding:5px;
+    margin:5px;
+}
